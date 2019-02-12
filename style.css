@@ -1,0 +1,11 @@
+body {
+    color:blueviolet;
+}
+h1 {color: rgb(212, 49, 104)}
+h1 {font-family: Verdana, Geneva, Tahoma, sans-serif }
+article {color: black}
+h3 {color: blue}
+h3 {font-style: italic}
+h3 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+article {font-family: fantasy}
+h1{text-align: center}
